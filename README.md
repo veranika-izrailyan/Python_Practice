@@ -1,1 +1,1 @@
-# jupiter_notebook
+# python practice notebook
